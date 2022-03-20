@@ -1,0 +1,73 @@
+body{
+    background-image: url(marius-niveri-rfg4l6_lu3c-unsplash.jpg);
+    background-size:cover;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+ }
+ .navbar{
+     font-family: 'Cinzel', serif;
+     padding: 2%;
+ }
+ .Main-Heading{
+     font-family: 'Cinzel', serif;
+     font-size: 4rem;
+     text-align: center;
+     color: aliceblue;
+ }
+ .skill-Heading{
+     font-family: 'Cinzel', serif;
+     font-size: 4rem;
+     text-align: center;
+     color: #000;
+ }
+ .subheading{
+     font-family:'El Messiri', sans-serif;
+     color: aliceblue;
+     text-align: center;
+ }
+ #button{
+     border-radius: round;
+     text-align: center;
+     margin-left: 45%;
+ }
+ .heading-box{
+     padding: 17%;
+ }
+ #Skills{
+     padding: 5%;
+     background-color: #ffff;
+ }
+ .Skills-book{
+     text-align: center;
+     color: #000;
+     font-family:'El Messiri', sans-serif;
+     padding-top: 5%;
+ }
+ .my_img{
+     width: 65%;
+     height: 85%; 
+     padding-top: 10%;
+     border-radius: 20%;
+ }
+ #about{
+    padding: 10%;
+ }
+ #footer{
+     color: #000;
+     padding: 5%;
+     background-color:#ffff;
+ }
+ .social-icon{
+     margin-left: 5%;
+ }
+ @media only screen and (max-width: 900px) {
+     #button{
+         text-align: center;
+         margin-left: 35%;
+     }
+     .my_img{
+         
+     }
+   }
+ 
+ 
